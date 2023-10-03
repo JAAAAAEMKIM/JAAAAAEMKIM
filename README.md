@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JAAAAAEMKIM
-- 👀 I’m interested in FE development
+- 👀 I’m a Front-end web developer
 - 🌱 I’m currently learning Vuejs
-- 💞️ I’m looking to collaborate on Dooray!
+- 💞️ I’m currently working on on NHN Dooray!
 - 📫 How to reach me ... jmkim326@gmail.com
 
 <!---
