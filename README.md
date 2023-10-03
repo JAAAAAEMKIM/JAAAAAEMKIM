@@ -1,25 +1,18 @@
-- 👋 Hi, I’m @JAAAAAEMKIM
-- 👀 I’m a Front-end web developer
-- 🌱 I’m currently learning Vuejs
-- 💞️ I’m currently working on on NHN Dooray!
-- 📫 How to reach me ... jmkim326@gmail.com
+# 소개
 
-## 기술 스택
+- 프론트엔드 개발자
+- NHN Dooray 재직
+- Email: jmkim326@gmail.com
 
-### 메인
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-1. ReactJS
-- Redux, Saga, Jotai, Tanstack Query ...
 
-2. Typescript, Javascript
+## 관심 분야
 
-### 다룰 수 있는 것
-
-Vue2, Nodejs
-
-## 관심 있는 분야
-
-생산성, 웹 개발 관련 프레임웍- BE, Rust Wasm
+- 웹 개발
+- Rust
 
 <!---
 JAAAAAEMKIM/JAAAAAEMKIM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
