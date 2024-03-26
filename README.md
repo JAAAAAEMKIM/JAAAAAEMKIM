@@ -1,8 +1,11 @@
 # 소개
 
 - 프론트엔드 개발자
-- NHN Dooray 재직
+- NHN Dooray! 프론트엔드 개발
+- (전) 인어교주해적단 프론트엔드 개발
+
 - Email: jmkim326@gmail.com
+- Blog: https://blue-tang.tistory.com/
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
