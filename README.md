@@ -15,7 +15,6 @@
 ## 관심 분야
 
 - 웹 개발
-- Rust
 
 <!---
 JAAAAAEMKIM/JAAAAAEMKIM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
