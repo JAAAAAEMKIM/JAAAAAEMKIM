@@ -14,7 +14,10 @@
 
 ## 관심 분야
 
-- 웹 개발
+- 웹 서비스 개발 및 운영
+- FE 성능 최적화
+- FE 개발 환경 - 빌드 툴 개선 / 프로세스 자동화
+- 테스팅 - Playwright / Storybook / Testing Library
 
 <!---
 JAAAAAEMKIM/JAAAAAEMKIM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
